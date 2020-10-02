@@ -14,7 +14,6 @@ setuptools.setup(
     url="https://github.com/ajiang36/Convert_Full_URL_2.git",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
