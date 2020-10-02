@@ -12,9 +12,8 @@ setuptools.setup(
     author="Amy Jiang",
     author_email="ajiang21@andover.edu",
     url="https://github.com/ajiang36/Convert_Full_URL_2.git",
-    long_description=long_description,
-    long_description_content_type="text/markdown",
-    packages=setuptools.find_packages(),
+    download_url="https://github.com/ajiang36/Convert_Full_URL_2/archive/v_01.tar.gz",
+    keywords=["PARTIAL", "FULL", "URL"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
