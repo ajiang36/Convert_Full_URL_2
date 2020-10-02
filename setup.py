@@ -4,10 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-ajiang36", # Replace with your own username
+    name="example-pkg-ajiang36",
     version="0.0.1",
     author="Amy Jiang",
     author_email="ajiang21@andover.edu",
+    license="MIT",
     description="This package converts partial urls into full urls",
     long_description=long_description,
     long_description_content_type="text/markdown",
